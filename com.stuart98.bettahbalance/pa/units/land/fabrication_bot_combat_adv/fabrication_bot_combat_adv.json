@@ -55,6 +55,10 @@
       "audio_cue": "/SE/Death/Bot", 
       "effect_scale": 1.3, 
       "effect_spec": "/pa/effects/specs/default_explosion_bot_t2.pfx"
+    },
+    "fired": {
+      "audio_cue": "/SE/Weapons/veh/land_scout_fire",
+      "effect_spec": "/pa/effects/specs/default_small_muzzle_flash.pfx socket_muzzleFront"
     }
   }, 
   "fx_offsets": [

@@ -1,0 +1,20 @@
+{
+  "author": "Stuart98",
+  "build": "105067",
+  "category": [
+    "balance",
+    "titans"
+  ],
+  "context": "server",
+  "date": "2017/09/21",
+  "description": "Makes minor changes to the game to improve game balance and promote unit diversity..",
+  "display_name": "BettahBalance 2.0",
+  "enabled": true,
+  "forum": "soon",
+  "icon": "https://i.imgur.com/2Y1snln.png?2",
+  "identifier": "com.stuart98.bettahbalance",
+  "priority": 85,
+  "signature": "(not yet implemented)",
+  "version": "2.0",
+  "titansOnly": true
+}

@@ -14,7 +14,7 @@
     }
   }, 
   "base_spec": "/pa/units/sea/base_ship/base_ship.json", 
-  "build_metal_cost": 4500, 
+  "build_metal_cost": 5000, 
   "description": "!LOC:Drone Carrier- Builds and launches missile drones at enemies. Attacks land, air and sea targets.", 
   "display_name": "!LOC:Typhoon", 
   "events": {

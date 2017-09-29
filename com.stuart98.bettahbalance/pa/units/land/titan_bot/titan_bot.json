@@ -16,7 +16,7 @@
       ]
     }
   }, 
-  "attack_range_frac": 0.3, 
+  "attack_range_frac": 0.5, 
   "audio": {
     "loops": {
       "move": {
@@ -90,7 +90,7 @@
   }, 
   "navigation": {
     "acceleration": 260, 
-    "brake": -1.0, 
+    "brake": 260.0, 
     "move_speed": 13, 
     "park_stamp": {
       "cost": 10, 

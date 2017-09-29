@@ -6,11 +6,11 @@
     "titans"
   ],
   "context": "server",
-  "date": "2017/09/21",
+  "date": "2017/09/28",
   "description": "Makes minor changes to the game to improve game balance and promote unit diversity..",
   "display_name": "BettahBalance 2.0",
   "enabled": true,
-  "forum": "soon",
+  "forum": "https://forums.uberent.com/threads/rel-bettahbalance-titans-v2-0.72610/",
   "icon": "https://i.imgur.com/2Y1snln.png?2",
   "identifier": "com.stuart98.bettahbalance",
   "priority": 85,

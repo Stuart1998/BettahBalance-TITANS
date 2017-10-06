@@ -29,12 +29,6 @@
   },
   "base_spec": "/pa/units/land/base_vehicle/base_vehicle.json",
   "build_metal_cost": 80,
-  "command_caps": [
-    "ORDER_Move",
-    "ORDER_Patrol",
-    "ORDER_Assist",
-    "ORDER_Use"
-  ],
   "description": "!LOC: Scout- Fast. Can see far away. Detects mines. Light railgun.",
   "display_name": "!LOC:Skitter",
   "events": {

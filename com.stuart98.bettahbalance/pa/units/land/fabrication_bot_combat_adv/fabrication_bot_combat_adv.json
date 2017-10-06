@@ -43,7 +43,8 @@
     "ORDER_Reclaim",
     "ORDER_Repair",
     "ORDER_Assist",
-    "ORDER_Use"
+    "ORDER_Use",
+    "ORDER_Attack"
   ],
   "description": "!LOC:Advanced Support Fabricator- Repairs faster. High health. Can build turrets in addition to mines. Armed with a light railgun.",
   "display_name": "!LOC:Mend",

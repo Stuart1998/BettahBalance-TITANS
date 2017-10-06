@@ -5,8 +5,14 @@
     "balance",
     "titans"
   ],
+  "companions": [
+    "com.pa.domdom.laser_unit_effects"
+  ],
   "context": "server",
   "date": "2017/10/06",
+  "dependencies": [
+    "com.pa.domdom.laser_unit_effects"
+  ],
   "description": "Makes minor changes to the game to improve game balance and promote unit diversity.",
   "display_name": "BettahBalance TITANS",
   "enabled": true,
@@ -16,5 +22,5 @@
   "priority": 85,
   "signature": "(not yet implemented)",
   "titansOnly": true,
-  "version": "2.4"
+  "version": "2.5"
 }

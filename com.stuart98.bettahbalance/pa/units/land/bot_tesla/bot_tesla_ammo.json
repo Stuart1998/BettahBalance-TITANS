@@ -9,7 +9,7 @@
   },
   "full_damage_splash_radius": 4,
   "fx_trail": {
-    "filename": "/pa/effects/specs/tesla_proj_trail.pfx"
+    "filename": "/pa/units/land/bot_tesla/bot_tesla_ammo_trail.pfx"
   },
   "initial_velocity": 180.0,
   "lifetime": 1,

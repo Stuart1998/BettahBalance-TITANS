@@ -148,6 +148,7 @@
     "UNITTYPE_Air",
     "UNITTYPE_EnergyProduction",
     "UNITTYPE_Mobile",
+    "UNITTYPE_Offense",
     "UNITTYPE_Basic",
     "UNITTYPE_FactoryBuild",
     "UNITTYPE_Economy"

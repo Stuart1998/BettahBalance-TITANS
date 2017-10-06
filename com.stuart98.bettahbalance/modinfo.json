@@ -6,7 +6,7 @@
     "titans"
   ],
   "context": "server",
-  "date": "2017/10/03",
+  "date": "2017/10/06",
   "description": "Makes minor changes to the game to improve game balance and promote unit diversity.",
   "display_name": "BettahBalance TITANS",
   "enabled": true,
@@ -15,6 +15,6 @@
   "identifier": "com.stuart98.bettahbalance",
   "priority": 85,
   "signature": "(not yet implemented)",
-  "version": "2.3",
-  "titansOnly": true
+  "titansOnly": true,
+  "version": "2.4"
 }

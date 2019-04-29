@@ -1,6 +1,6 @@
 {
   "author": "Stuart98",
-  "build": "105067",
+  "build": "113132",
   "category": [
     "balance",
     "titans"
@@ -9,18 +9,17 @@
     "com.pa.domdom.laser_unit_effects"
   ],
   "context": "server",
-  "date": "2017/10/06",
+  "date": "2019-04-28",
   "dependencies": [
     "com.pa.domdom.laser_unit_effects"
   ],
   "description": "Makes minor changes to the game to improve game balance and promote unit diversity.",
   "display_name": "BettahBalance TITANS",
-  "enabled": true,
   "forum": "https://forums.uberent.com/threads/rel-bettahbalance-titans-v2-0.72610/",
   "icon": "https://i.imgur.com/2Y1snln.png?2",
   "identifier": "com.stuart98.bettahbalance",
   "priority": 85,
   "signature": "(not yet implemented)",
   "titansOnly": true,
-  "version": "2.7"
+  "version": "3.0"
 }
